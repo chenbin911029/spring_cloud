@@ -9,6 +9,8 @@
 	<packaging>jar</packaging>
 
 	<modules>
-
+		<module>spring_cloud_eureka_server</module>
+		<module>springcloud-eureka-cluster-client-customer</module>
+		<module>springcloud-eureka-cluster-client-provider</module>
 	</modules>
 </project>
