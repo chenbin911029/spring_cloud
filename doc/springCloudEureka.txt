@@ -13,3 +13,5 @@ Spring Cloud Eureka提供了一个明智的默认，
 eureka:
   instance:
     instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+
+2018-03-21 断路器：Hystrix客户端
