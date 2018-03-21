@@ -12,5 +12,7 @@
 		<module>spring_cloud_eureka_server</module>
 		<module>springcloud-eureka-cluster-client-customer</module>
 		<module>springcloud-eureka-cluster-client-provider</module>
+		<module>ribbon_eureka</module>
+		<module>spring_cloud_eureka_server2</module>
 	</modules>
 </project>
