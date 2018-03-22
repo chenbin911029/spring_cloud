@@ -15,3 +15,9 @@ eureka:
     instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
 
 2018-03-21 断路器：Hystrix客户端
+eureka: 服务发现，注册
+ribbon:负载均衡，loadblance
+restTemplate:restful风格支持
+feign:声明式，模板化的HTTP客户端。
+hystrix:断路器，防止级联错误。
+config:配置中心
