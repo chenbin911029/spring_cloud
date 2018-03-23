@@ -21,3 +21,5 @@ restTemplate:restful风格支持
 feign:声明式，模板化的HTTP客户端。
 hystrix:断路器，防止级联错误。
 config:配置中心
+config-server
+config-client
