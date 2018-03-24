@@ -6,6 +6,15 @@ spring:
         service-id: configserver
   application:
     name: config-client
+  rabbitmq:
+    host: 192.168.48.59
+    port: 5672
+    username: it
+    password: its123
+
+management:
+  security:
+    enabled: false
 
 server:
   port: 8088

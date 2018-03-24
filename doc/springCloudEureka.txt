@@ -23,3 +23,6 @@ hystrix:断路器，防止级联错误。
 config:配置中心
 config-server
 config-client
+
+消息总线
+rabbitMq

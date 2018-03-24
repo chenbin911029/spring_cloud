@@ -9,3 +9,5 @@ server:
 spring:
   application:
     name: cluster-provider-service
+  zipkin:
+      base-url: http://localhost:8091
